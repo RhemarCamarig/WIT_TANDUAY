@@ -1,0 +1,32 @@
+#HOME {
+
+    background: url('back1.jpg') no-repeat center center;
+    background-size:cover; 
+    color: yellow; 
+    padding: 150px 120px; 
+    border-color: red;
+}
+
+
+#HOME p {
+    font-family: 'Helvetica', 'Arial', sans-serif; 
+    font-size: 1.3rem;
+    font-weight: normal; 
+}
+
+#about {
+    background: url('back1.jpg') no-repeat center center;
+    background-size:cover; 
+    color: yellow; 
+    padding: 150px 120px; 
+    border-color: red;
+}
+
+#about p {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px; 
+    color: yellow;
+}
+
+
